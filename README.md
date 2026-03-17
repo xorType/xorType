@@ -2,7 +2,7 @@
 
 I work between engineering, product, and leadership ensuring technical initiatives actually ship and align with business goals.  
 
-### What I do
+#### What I do
 
 * Small Language Models: Orchestration, Fine-Tuning, Local AI 
 * AI Agents: Single Agent, Multi-Agent, Local Agents
