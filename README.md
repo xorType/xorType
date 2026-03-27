@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Matthias Blackshear
 
-I work between engineering, product, and leadership, ensuring technical initiatives actually ship and align with business goals. In the GenAI era, I use AI to write in-house solutions for project, program, product, PMO, and leadership roles using Go, MongoDB, Embedding Models (Qwen, Nomic, Anthropic, OpenAI, Voyage AI), LLMs (Claude, ChatGPT, Qwen, Copilot), Agents & Skills, and small language models on Ollama (basically anything my GPU/CPU can handle and cloud models). 
+I work between engineering, product, and leadership, ensuring technical initiatives actually ship and align with business goals. In the GenAI era, I use AI to write in-house solutions for project, program, product, PMO, and leadership roles using Go, MongoDB, Embedding Models (Qwen, Nomic, Anthropic, OpenAI, Voyage AI), LLMs (Claude, ChatGPT, Qwen, Copilot), Agents & Skills, and small language models on Ollama (basically anything my GPU/CPU can handle and cloud models). Claude is my go-to ecosystem, I'm just as handy everywhere else. 
 
 #### What I do
 
