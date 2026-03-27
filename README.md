@@ -16,6 +16,7 @@ I work between engineering, product, and leadership, ensuring technical initiati
 * GenAI Solutions: Given my background in ML and AI, solution architecture, cloud, software development, and creativity, the GenAI era has **opened** the door for me to be more open in my intentions and ability.
 
 ## Industries I've Worked In
+Realistically, there is no industry that I cannot wrap my head around though. 
 
 * Database & Infrastructure
 * Auto Retail Technology & SaaS
