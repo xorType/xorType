@@ -14,6 +14,19 @@ I work between engineering, product, and leadership, ensuring technical initiati
   * **Enterprise:** I manage massive programs comprised of multiple projects where combined budgets **exceed** $100M, **mixed** with plenty of internal politics.
 * Product Management: I have worked many years to ideate, **research**, and market-test products and incubate long-term **roadmaps**.
 * GenAI Solutions: Given my background in ML and AI, solution architecture, cloud, software development, and creativity, the GenAI era has **opened** the door for me to be more open in my intentions and ability.
+
+## Industies I Worked In
+
+* Database & Infrastructure
+* Auto Retail Technolgy & SaaS
+* Big4 Consulting Services
+* Consumer Services & Utility Marketing
+* Public Health * Government
+* Manufacaturing & Consumer Goods
+* Consulting & Professional Services
+* Insurance Claims
+* Logistics & Supply Chain
+* Construction Data * Analytics
 <!--
 **xorType/xorType** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
