@@ -21,12 +21,12 @@ I work between engineering, product, and leadership, ensuring technical initiati
 * Auto Retail Technolgy & SaaS
 * Big4 Consulting Services
 * Consumer Services & Utility Marketing
-* Public Health * Government
+* Public Health & Government
 * Manufacaturing & Consumer Goods
 * Consulting & Professional Services
 * Insurance Claims
 * Logistics & Supply Chain
-* Construction Data * Analytics
+* Construction Data & Analytics
 <!--
 **xorType/xorType** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
