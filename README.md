@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Matthias Blackshear
 
-I work between engineering, product, and leadership, ensuring technical initiatives actually ship and align with business goals.  
+I work between engineering, product, and leadership, ensuring technical initiatives actually ship and align with business goals. In the GenAI era, I use AI to write in-house solutions for project, program, product, PMO, and leadership roles using Go, MongoDB, Embedding Models (Qwen, Nomic, Anthropic, OpenAI, Voyage AI), LLMs (Claude, ChatGPT, Qwen, Copilot), Agents & Skills, and small language models on Ollama (basically anything my GPU/CPU can handle and cloud models). 
 
 #### What I do
 
@@ -15,14 +15,14 @@ I work between engineering, product, and leadership, ensuring technical initiati
 * Product Management: I have worked many years to ideate, **research**, and market-test products and incubate long-term **roadmaps**.
 * GenAI Solutions: Given my background in ML and AI, solution architecture, cloud, software development, and creativity, the GenAI era has **opened** the door for me to be more open in my intentions and ability.
 
-## Industies I Worked In
+## Industries I've Worked In
 
 * Database & Infrastructure
-* Auto Retail Technolgy & SaaS
-* Big4 Consulting Services
+* Auto Retail Technology & SaaS
+* Big 4 Consulting Services
 * Consumer Services & Utility Marketing
 * Public Health & Government
-* Manufacaturing & Consumer Goods
+* Manufacturing & Consumer Goods
 * Consulting & Professional Services
 * Insurance Claims
 * Logistics & Supply Chain
